@@ -9,3 +9,7 @@ github를 사용하여 블로그를 시작합니다.
 * atom editor
   * git-plus 설치
   * 명령어 실행: command+shift+h
+
+### 블로그 뼈대 복사 및 설정
+* [jekyll-now](http://thdev.net/653)
+* [google analytics](http://blogchannel.tistory.com/149)
